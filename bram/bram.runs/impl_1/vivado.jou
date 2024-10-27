@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sun Oct 27 15:38:45 2024
+# Process ID: 21872
+# Current directory: I:/mtech/1sem/e-books/ES ZG 626 Hardware software co-design/project_i2s/bram/bram.runs/impl_1
+# Command line: vivado.exe -log top_i2s.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top_i2s.tcl -notrace
+# Log file: I:/mtech/1sem/e-books/ES ZG 626 Hardware software co-design/project_i2s/bram/bram.runs/impl_1/top_i2s.vdi
+# Journal file: I:/mtech/1sem/e-books/ES ZG 626 Hardware software co-design/project_i2s/bram/bram.runs/impl_1\vivado.jou
+# Running On        :DESKTOP-A70H6SI
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+# CPU Frequency     :2496 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :25553 MB
+# Swap memory       :12859 MB
+# Total Virtual     :38413 MB
+# Available Virtual :7126 MB
+#-----------------------------------------------------------
+source top_i2s.tcl -notrace

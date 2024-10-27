@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+I:/mtech/1sem/e-books/ES ZG 626 Hardware software co-design/project_i2s/bram/bram.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+I:/mtech/1sem/e-books/ES ZG 626 Hardware software co-design/project_i2s/bram/bram.srcs/sim_1/new/tb_i2s_module.v,1730002016,verilog,,,,tb_i2s_module,,,,,,,,
+I:/mtech/1sem/e-books/ES ZG 626 Hardware software co-design/project_i2s/bram/bram.srcs/sources_1/new/i2s_master_rx.v,1730006898,verilog,,I:/mtech/1sem/e-books/ES ZG 626 Hardware software co-design/project_i2s/bram/bram.srcs/sources_1/new/i2s_master_tx.v,,i2s_rx_master,,,,,,,,
+I:/mtech/1sem/e-books/ES ZG 626 Hardware software co-design/project_i2s/bram/bram.srcs/sources_1/new/i2s_master_tx.v,1730006039,verilog,,I:/mtech/1sem/e-books/ES ZG 626 Hardware software co-design/project_i2s/bram/bram.srcs/sources_1/new/i2s_module.v,,i2s_tx_master,,,,,,,,
+I:/mtech/1sem/e-books/ES ZG 626 Hardware software co-design/project_i2s/bram/bram.srcs/sources_1/new/i2s_module.v,1730002540,verilog,,I:/mtech/1sem/e-books/ES ZG 626 Hardware software co-design/project_i2s/bram/bram.srcs/sim_1/new/tb_i2s_module.v,,i2s_module,,,,,,,,
